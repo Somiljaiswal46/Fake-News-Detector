@@ -150,5 +150,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 <div align="center">
-  <i>Built with ❤️ by the TruthGuard.AI Team. <br/> Combating misinformation one article at a time.</i>
+  <i>Built with ❤️ by Somil Jaiswal.</i>
 </div>
